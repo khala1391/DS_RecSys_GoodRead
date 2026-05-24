@@ -4,6 +4,7 @@
 
 ระบบแนะนำหนังสือ (Book Recommendation System) แบบ end-to-end บนแพลตฟอร์ม **Greed Route** — เว็บแอปพลิเคชันสไตล์ Goodreads รองรับภาษาไทยและภาษาอังกฤษ ครอบคลุมตั้งแต่ database design, synthetic data generation, recommendation algorithms จนถึง web prototype 14 หน้า
 
+Live demo: [github.io](https://khala1391.github.io/DS_RecSys_GoodRead/)
 ---
 
 ## Overview
