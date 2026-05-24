@@ -1,2 +1,0 @@
-# RecSysProject
-Final Project

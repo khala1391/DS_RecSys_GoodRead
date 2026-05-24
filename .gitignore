@@ -12,7 +12,7 @@ cli/
 prompt/
 pdf/
 notebook/
-
+.github/
 
 *.ipynb
 *.lnk
