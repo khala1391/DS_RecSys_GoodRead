@@ -163,12 +163,4 @@ Y2H203_2603522_RecSys/
 
 ## Author
 
-<p align="center">
-  <img src="https://github.com/khala1391.png" width="120" style="border-radius:50%;" alt="Yuttapong M."/>
-  <br/><br/>
-  <strong>Yuttapong M.</strong>
-  <br/>
-  <a href="https://www.linkedin.com/in/yuttapong-m/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yuttapong%20M.-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
-  </a>
-</p>
+Yuttapong Mahasittiwat — [linkedin.com/in/yuttapong-m](https://www.linkedin.com/in/yuttapong-m/)
