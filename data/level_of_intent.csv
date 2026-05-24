@@ -1,10 +1,3 @@
-intent_level,event_type,description
-0,genre_view,Scrolling a genre/category
-1,preview,Hovering over a book card
-2,view_details,Clicking a book for full details
-3,add_to_wishlist,Adding to wishlist / save for later
-4,read_start,Starting to read
-5,read_complete,Completing the book
-6,rate_review,Rating or reviewing
-7,purchase,Purchasing the book via a linked store
-8,share,Sharing the book
+version https://git-lfs.github.com/spec/v1
+oid sha256:649540b4b5e982301c96c47b25ddada956f776c00b3a80446245788ddacea09c
+size 399

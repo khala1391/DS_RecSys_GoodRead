@@ -1,0 +1,31 @@
+# Auto-detect text vs binary
+* text=auto
+
+# Web & source — always LF
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.html text eol=lf
+*.css  text eol=lf
+*.js   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.dio  text eol=lf
+
+# Data files — Git LFS (large binary / tabular)
+*.csv     filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.h5      filter=lfs diff=lfs merge=lfs -text
+*.hdf5    filter=lfs diff=lfs merge=lfs -text
+*.pkl     filter=lfs diff=lfs merge=lfs -text
+
+# Binary assets
+*.pdf  binary
+*.pbix binary
+*.avif binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.pptx binary

@@ -1,13 +1,3 @@
-store_id,store_name,store_location,store_url
-1,SE-ED,Bangkok,https://www.se-ed.com
-2,Naiin,Bangkok,https://www.naiin.com
-3,Kinokuniya TH,Bangkok,https://www.kinokuniya.co.th
-4,B2S,Bangkok,https://www.b2s.co.th
-5,Asia Books,Bangkok,https://www.asiabooks.com
-6,Ookbee,Online,https://www.ookbee.com
-7,MEB,Online,https://www.mebmarket.com
-8,readAwrite,Online,https://www.readawrite.com
-9,Amazon,Global,https://www.amazon.com
-10,BookDepository,Global,https://www.bookdepository.com
-11,Shopee Books,Online,https://shopee.co.th
-12,Lazada Books,Online,https://www.lazada.co.th
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd8711c903521248f88ba40ee693c377aaf88ec4f77e352bc0c72758e406fdf3
+size 582

@@ -1,7 +1,7 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
+# Greed Route — Book Recommendation System
+# Y2H203_2603522_RecSys
 
-# private folder
+# Private / local-only folders
 00_clip_RecSys/
 01_learning_materials/
 02_exercise/
@@ -13,12 +13,14 @@ prompt/
 pdf/
 notebook/
 
+
 *.ipynb
 *.lnk
 *.ini
+*.pbix
 
 
-### Python ###
+### Python (standard template) ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -189,5 +191,3 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
-
-# End of https://www.toptal.com/developers/gitignore/api/python
